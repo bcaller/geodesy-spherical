@@ -1,0 +1,22 @@
+{
+  "name": "geodesy-spherical",
+  "version": "1.1.0",
+  "description": "Small geodesy latlon-spherical library",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcaller/mini-geodesy.git"
+  },
+  "author": "Ben Caller <bcaller@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bcaller/mini-geodesy/issues"
+  },
+  "homepage": "https://github.com/bcaller/mini-geodesy#readme",
+  "devDependencies": {
+    "geodesy": "*",
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
