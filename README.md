@@ -6,7 +6,7 @@ I decided to make this to shrink the code for using as a Pebble package.
 
 ## Usage
 
-```
+```JS
 var LatLon = require('geodesy-spherical');
 var dist = new LatLon(z.latitude, z.longitude).distanceTo(new LatLon(q.latitude, q.longitude));
 ```
